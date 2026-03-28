@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Subscriptx",
+        "description": "Modular OOP Python Project with robust debugging and clean architecture.",
+        "technology": "Python",
+        "github": "https://github.com/Nadiayousaf/Subscription-billing-system"
+    },
+    {
+        "title": "Hospital Management System",
+        "description": "Full Stach Web Application for Hospital Management with Responsive UI and CRUD operation.",
+        "technology": "Python,Flak,HTML,CSS, JavaScript",
+        "github": "https://github.com/Nadiayousaf/Hospital-Management-System"
+    }
+    
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "company": "Dev Castle",
+        "role": "FULL Stack Python Developer",
+        "duration": "2025-present",
+        "description": "Python based application and full stack Solutions."
+    },
+    {
+        "company": "Tech Solutions",
+        "role": "Python core and OOP Specialization",
+        "duration": "2024-2025",
+        "description": "Deep Focus on core OOP Principles and Patterns."
+    }
+]
